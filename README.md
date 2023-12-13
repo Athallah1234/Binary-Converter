@@ -113,6 +113,29 @@ While the tool is designed for general use, it's recommended not to use it with 
 ### Are there any external libraries or tools used in the Binary Converter?
 The Binary Converter uses standard Python libraries for its functionality. No external dependencies are required.
 
+## Contribute
+
+If you wish to contribute to this project, please follow these steps:
+
+1. **Fork the Repository**
+   - Fork this repository to your GitHub account.
+2. **Clone the Repository**
+   - Clone the forked repository to your local machine.
+     ```bash
+     git clone https://github.com/Athallah1234/Binary-Converter.git
+     ```
+3. **Create a Branch**
+   - Create a new branch for your work.
+     ```bash
+     git checkout -b branch-name
+     ```
+4. **Make Changes**
+   - Make the necessary changes and ensure to follow the code style guidelines.
+5. **Test Changes**
+   - Make sure to test your changes before submitting a pull request.
+6. **Submit a Pull Request**
+   - Submit a pull request to the main repository with a brief description of the changes 
+
 ## License
 
 This Binary Converter script is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
